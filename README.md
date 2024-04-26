@@ -24,7 +24,7 @@ git clone https://github.com/MZelenovic/Brucella-ovis---analysis-of-histopatholo
 cd Brucella-ovis---analysis-of-histopathological-changes
 
 Open the Jupyter Notebook:
-jupyter notebook "Analysis of histopathological changes.ipynb"
+jupyter notebook "Analysis of histopathological changes.ipynb" or
 jupyter notebook "Epididymis cluster analysis.ipynb"
 Follow the instructions in the notebook to perform tumor classification.
 
